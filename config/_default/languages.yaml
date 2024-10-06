@@ -3,69 +3,45 @@ en:
   weight: 1
   ### copyright (markdown can be used) ###
   copyright: "Copyright &copy; {{< current_year >}} Company Name. All Rights Reserved. [Dot Org Theme](https://github.com/cncf/dot-org-hugo-theme) for Hugo by [CNCF](https://www.cncf.io)."
-  title: "Site Title"
+  title: "Zapotec Resource Hub"
   params:
     description: "Site Description"
     ### accessibility ###
     accessibility:
       skip_text: "Skip to content"
       help_text: "Accessibility Statement"
-      help_url: "/example-page/"
+      help_url: "/help/"
     ### calls to action ###
     main_cta:
-      text: "Join"
-      link: "/example-page/"
+      text: "Login"
+      link: "/login/"
     footer_cta:
-      text: "Join us"
-      link: "/example-page/"
+      text: "Login"
+      link: "/login/"
     github_edit: "Edit this page on GitHub"
   ### example menu showing children ###
   menu:
     main:
     - identifier: "about"
       name: "About"
-      url: "/example-page/"
+      url: "/about-us/"
       weight: 1
-    - identifier: "child-1"
-      name: "Example Child Page"
-      url: "/example-page/"
-      weight: 1
-      post: "Lorem ipsum dolor sit amet consectetuer adipiscing elit aenean commodo."
-      parent: "about"
-    - identifier: "child-2"
-      name: "Example Child Page"
-      url: "/example-page/"
+    - identifier: "resources"
+      name: "Resources"
+      url: "/resources/"
       weight: 2
-      post: "Aenean commodo ligula get dolor. Aenean massa."
-      parent: "about"
-    - identifier: "child-3"
-      name: "Example Child Page"
-      url: "/example-page/"
-      weight: 3
-      post: "Nulla consequat massa quis enim. Donec pede justo."
-      parent: "about"
-    - identifier: "example"
-      name: "Example"
-      url: "/example-page/"
-      weight: 2
-    - identifier: "example-1"
-      name: "Example Child Page"
-      url: "/example-page/"
+    - identifier: "resource-1"
+      name: "For Educators"
+      url: "/educators/"
       weight: 1
       post: "Lorem ipsum dolor sit amet consectetuer adipiscing elit aenean commodo."
-      parent: "example"
-    - identifier: "example-2"
-      name: "Example Child Page"
-      url: "/example-page/"
+      parent: "resources"
+    - identifier: "resource-2"
+      name: "For Learners"
+      url: "/learn/"
       weight: 2
       post: "Nulla consequat massa quis enim. Donec pede justo."
-      parent: "example"
-    - identifier: "example-3"
-      name: "Example Child Page"
-      url: "/example-page/"
-      weight: 3
-      post: "Aenean commodo ligula get dolor. Aenean massa. "
-      parent: "example"
+      parent: "resources"
     - identifier: "demo-page"
       name: "Demo Page"
       url: "/demo-page/"
@@ -74,9 +50,9 @@ en:
       name: "FAQs"
       url: "/faq/"
       weight: 4
-    - identifier: "blog"
-      name: "Blog"
-      url: "/blog/"
+    - identifier: "contact"
+      name: "Contact Us"
+      url: "/contact/"
       weight: 5
 es:
   languageName: Spanish
@@ -87,20 +63,15 @@ es:
     description: "Descripción del Sitio"
   menu:
     main:
-    - identifier: "about"
+    - identifier: "acerca-de"
       name: "Acerca de"
-      url: "/example-page/"
+      url: "/acerca-de/"
       weight: 1
-    - identifier: "child-1"
-      name: "Página Hija de Ejemplo"
-      url: "/example-page/"
-      weight: 1
-      parent: "about"
     - identifier: "faq"
       name: "FAQs"
-      url: "/faq/"
+      url: "/faq-es/"
       weight: 3
-    - identifier: "blog"
-      name: "Blog"
-      url: "/blog/"
+    - identifier: "contacto"
+      name: "Contacto"
+      url: "/contacto/"
       weight: 2

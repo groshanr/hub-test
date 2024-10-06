@@ -1,8 +1,8 @@
 <rss version="2.0">
     <channel>
-        <title>Blog on Site Title</title>
+        <title>Blog on Zapotec Resource Hub</title>
         <link>https://groshanr.github.io/hub-test/blog/</link>
-        <description>Recent content in Site Title</description>
+        <description>Recent content in Zapotec Resource Hub</description>
 
          
             
@@ -10,7 +10,7 @@
                 <item>
                     <title>Hello World</title>
                     <link>https://groshanr.github.io/hub-test/blog/hello-world/</link>
-                    <pubDate>Tue, 01 Aug 2023 00:00:00 -0700</pubDate>
+                    <pubDate>Tue, 01 Aug 2023 00:00:00 -0600</pubDate>
                     <description>Welcome to our first blog post. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa.&#xA;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.</description>
                 </item>
                 
@@ -19,7 +19,7 @@
                 <item>
                     <title>This is an old post</title>
                     <link>https://groshanr.github.io/hub-test/blog/old-post/</link>
-                    <pubDate>Wed, 14 Apr 2021 00:00:00 -0700</pubDate>
+                    <pubDate>Wed, 14 Apr 2021 00:00:00 -0600</pubDate>
                     <description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.&#xA;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor.</description>
                 </item>
                 
@@ -28,7 +28,7 @@
                 <item>
                     <title>This is an older post</title>
                     <link>https://groshanr.github.io/hub-test/blog/old-post-2/</link>
-                    <pubDate>Sun, 14 Mar 2021 00:00:00 -0800</pubDate>
+                    <pubDate>Sun, 14 Mar 2021 00:00:00 -0700</pubDate>
                     <description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.&#xA;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor.</description>
                 </item>
                 
@@ -37,7 +37,7 @@
                 <item>
                     <title>This is an old post</title>
                     <link>https://groshanr.github.io/hub-test/blog/old-post-3/</link>
-                    <pubDate>Sun, 14 Feb 2021 00:00:00 -0800</pubDate>
+                    <pubDate>Sun, 14 Feb 2021 00:00:00 -0700</pubDate>
                     <description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.&#xA;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor.</description>
                 </item>
                 
@@ -46,7 +46,7 @@
                 <item>
                     <title>This is an old post</title>
                     <link>https://groshanr.github.io/hub-test/blog/old-post-4/</link>
-                    <pubDate>Thu, 14 Jan 2021 00:00:00 -0800</pubDate>
+                    <pubDate>Thu, 14 Jan 2021 00:00:00 -0700</pubDate>
                     <description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.&#xA;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor.</description>
                 </item>
                 
@@ -55,7 +55,7 @@
                 <item>
                     <title>This is an old post</title>
                     <link>https://groshanr.github.io/hub-test/blog/old-post-5/</link>
-                    <pubDate>Mon, 14 Sep 2020 00:00:00 -0700</pubDate>
+                    <pubDate>Mon, 14 Sep 2020 00:00:00 -0600</pubDate>
                     <description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.&#xA;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor.</description>
                 </item>
                 
@@ -64,7 +64,7 @@
                 <item>
                     <title>This is an old post</title>
                     <link>https://groshanr.github.io/hub-test/blog/old-post-6/</link>
-                    <pubDate>Fri, 14 Aug 2020 00:00:00 -0700</pubDate>
+                    <pubDate>Fri, 14 Aug 2020 00:00:00 -0600</pubDate>
                     <description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.&#xA;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor.</description>
                 </item>
                 
@@ -73,7 +73,7 @@
                 <item>
                     <title>This is an old post</title>
                     <link>https://groshanr.github.io/hub-test/blog/old-post-7/</link>
-                    <pubDate>Tue, 14 Jul 2020 00:00:00 -0700</pubDate>
+                    <pubDate>Tue, 14 Jul 2020 00:00:00 -0600</pubDate>
                     <description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.&#xA;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor.</description>
                 </item>
                 
@@ -82,7 +82,7 @@
                 <item>
                     <title>This is an old post</title>
                     <link>https://groshanr.github.io/hub-test/blog/old-post-8/</link>
-                    <pubDate>Sun, 14 Jun 2020 00:00:00 -0700</pubDate>
+                    <pubDate>Sun, 14 Jun 2020 00:00:00 -0600</pubDate>
                     <description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.&#xA;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor.</description>
                 </item>
                 
@@ -91,7 +91,7 @@
                 <item>
                     <title>This is an old post</title>
                     <link>https://groshanr.github.io/hub-test/blog/old-post-9/</link>
-                    <pubDate>Thu, 14 May 2020 00:00:00 -0700</pubDate>
+                    <pubDate>Thu, 14 May 2020 00:00:00 -0600</pubDate>
                     <description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.&#xA;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor.</description>
                 </item>
                 
@@ -100,7 +100,7 @@
                 <item>
                     <title>This is an old post</title>
                     <link>https://groshanr.github.io/hub-test/blog/old-post-10/</link>
-                    <pubDate>Tue, 14 Apr 2020 00:00:00 -0700</pubDate>
+                    <pubDate>Tue, 14 Apr 2020 00:00:00 -0600</pubDate>
                     <description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.&#xA;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor.</description>
                 </item>
                 
