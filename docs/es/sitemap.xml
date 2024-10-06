@@ -2,64 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/es/search/</loc>
+    <loc>https://groshanr.github.io/hub-test/es/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/search/"
+                href="https://groshanr.github.io/hub-test/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/search/"
+                href="https://groshanr.github.io/hub-test/es/search/"
                 />
   </url><url>
-    <loc>http://localhost:1313/es/categories/</loc>
+    <loc>https://groshanr.github.io/hub-test/es/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/"
+                href="https://groshanr.github.io/hub-test/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/categories/"
+                href="https://groshanr.github.io/hub-test/es/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/es/example-page/</loc>
+    <loc>https://groshanr.github.io/hub-test/es/example-page/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/example-page/"
+                href="https://groshanr.github.io/hub-test/example-page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/example-page/"
+                href="https://groshanr.github.io/hub-test/es/example-page/"
                 />
   </url><url>
-    <loc>http://localhost:1313/es/</loc>
+    <loc>https://groshanr.github.io/hub-test/es/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="https://groshanr.github.io/hub-test/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/"
+                href="https://groshanr.github.io/hub-test/es/"
                 />
   </url><url>
-    <loc>http://localhost:1313/es/tags/</loc>
+    <loc>https://groshanr.github.io/hub-test/es/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/"
+                href="https://groshanr.github.io/hub-test/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/tags/"
+                href="https://groshanr.github.io/hub-test/es/tags/"
                 />
   </url>
 </urlset>
