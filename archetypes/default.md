@@ -1,5 +1,7 @@
-+++
-title = '{{ replace .File.ContentBaseName "-" " " | title }}'
-date = {{ .Date }}
-draft = true
-+++
+---
+title: Required
+description: 
+url: ""
+---
+
+Page content here
