@@ -16,6 +16,8 @@ defaultContentLanguage: en
 # Set the default language as the root rather than in folder i.e. don't use /en/
 defaultContentLanguageInSubdir: false
 
+publishDir: docs
+
 ######################## privacy & speed ####################
 # Enable do not track, no cookies on Video embeds
 privacy:
