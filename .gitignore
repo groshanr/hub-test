@@ -1,2 +1,9 @@
 node_modules
 public
+assets/js/firebase.config.js
+.env
+.gitignore
+.hugo_build.lock
+.firebaserc
+.gitmodules
+hugo.toml

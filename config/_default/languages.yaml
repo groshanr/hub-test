@@ -30,18 +30,6 @@ en:
       name: "Resources"
       url: "/resources/"
       weight: 2
-    - identifier: "resource-1"
-      name: "For Educators"
-      url: "/educators/"
-      weight: 1
-      post: "Lorem ipsum dolor sit amet consectetuer adipiscing elit aenean commodo."
-      parent: "resources"
-    - identifier: "resource-2"
-      name: "For Learners"
-      url: "/learn/"
-      weight: 2
-      post: "Nulla consequat massa quis enim. Donec pede justo."
-      parent: "resources"
     - identifier: "demo-page"
       name: "Demo Page"
       url: "/demo-page/"
